@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sh-capstone-restaurant/static/css/main.8bb9d65b.css",
+    "main.js": "/sh-capstone-restaurant/static/js/main.92962fde.js",
+    "static/media/bg.jpg": "/sh-capstone-restaurant/static/media/bg.bd62a63b81faf97f1197.jpg",
+    "index.html": "/sh-capstone-restaurant/index.html",
+    "main.8bb9d65b.css.map": "/sh-capstone-restaurant/static/css/main.8bb9d65b.css.map",
+    "main.92962fde.js.map": "/sh-capstone-restaurant/static/js/main.92962fde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bb9d65b.css",
+    "static/js/main.92962fde.js"
+  ]
+}
