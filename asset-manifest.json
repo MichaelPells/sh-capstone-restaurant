@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sh-capstone-restaurant/home/static/css/main.a4fd9101.css",
-    "main.js": "/sh-capstone-restaurant/home/static/js/main.92962fde.js",
-    "static/media/bg.jpg": "/sh-capstone-restaurant/home/static/media/bg.bd62a63b81faf97f1197.jpg",
-    "index.html": "/sh-capstone-restaurant/home/index.html",
-    "main.a4fd9101.css.map": "/sh-capstone-restaurant/home/static/css/main.a4fd9101.css.map",
-    "main.92962fde.js.map": "/sh-capstone-restaurant/home/static/js/main.92962fde.js.map"
+    "main.css": "/sh-capstone-restaurant/index.html/static/css/main.94021cf3.css",
+    "main.js": "/sh-capstone-restaurant/index.html/static/js/main.92962fde.js",
+    "static/media/bg.jpg": "/sh-capstone-restaurant/index.html/static/media/bg.bd62a63b81faf97f1197.jpg",
+    "index.html": "/sh-capstone-restaurant/index.html/index.html",
+    "main.94021cf3.css.map": "/sh-capstone-restaurant/index.html/static/css/main.94021cf3.css.map",
+    "main.92962fde.js.map": "/sh-capstone-restaurant/index.html/static/js/main.92962fde.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4fd9101.css",
+    "static/css/main.94021cf3.css",
     "static/js/main.92962fde.js"
   ]
 }
