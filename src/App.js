@@ -20,10 +20,10 @@ function App() {
         <Navbar />
         <div className="Body">
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/products" element={<Products />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} /> 
+          <Route path="/sh-capstone-restaurant/" element={<Home />} />
+          <Route path="/sh-capstone-restaurant/products" element={<Products />} />
+          <Route path="/sh-capstone-restaurant/about" element={<About />} />
+          <Route path="/sh-capstone-restaurant/contact" element={<Contact />} /> 
         </Routes>
         </div>
         <Footer />

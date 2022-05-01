@@ -6,10 +6,10 @@ function Footer() {
     return (
         <div className="Footer">
             <ul className="Extras">
-                <li><Link to="/"><font className="Whitelink">Home</font></Link></li>
-                <li><Link to="/products"><font className="Whitelink">Foods</font></Link></li>
-                <li><Link to="/about"><font className="Whitelink">About</font></Link></li>
-                <li><Link to="/contact"><font className="Whitelink">Contact Us</font></Link></li>
+                <li><Link to="/sh-capstone-restaurant"><font className="Whitelink">Home</font></Link></li>
+                <li><Link to="/sh-capstone-restaurant/products"><font className="Whitelink">Foods</font></Link></li>
+                <li><Link to="/sh-capstone-restaurant/about"><font className="Whitelink">About</font></Link></li>
+                <li><Link to="/sh-capstone-restaurant/contact"><font className="Whitelink">Contact Us</font></Link></li>
             </ul>
 
             <ul className="Extras">

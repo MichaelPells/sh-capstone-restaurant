@@ -2,7 +2,7 @@ import React from 'react'
 import '../App.css';
 import CTA from './CTA';
 
-function Shows({text, style, cta='Make an Order Now', url='/products'}) {
+function Shows({text, style, cta='Make an Order Now', url='/sh-capstone-restaurant/products'}) {
     return (
         <div>
             <div className="Shows" style={style}>
